@@ -14,7 +14,7 @@ For Q&A styled investigation, please feel free to [check my Medium Writeup]([htt
 
 ## Overview
 
-This repository contains the full professional incident investigation report for **RAPBEEF** — a simulated two-phase cyber operation conducted against OWL Records and its primary artist, Dwake, within the [KC7 cybersecurity training platform](https://kc7cyber.com/).
+This repository contains the full incident investigation report that I shared as part of my learning journey for **RAPBEEF** — a simulated two-phase cyber operation conducted against OWL Records and its primary artist, Dwake, within the [KC7 cybersecurity training platform](https://kc7cyber.com/).
 
 The scenario was built by former Microsoft DART analysts and mirrors real-world SOC investigation methodology. All company names, individuals, IP addresses, and artifacts are entirely simulated for training purposes.
 
