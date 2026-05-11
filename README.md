@@ -7,6 +7,7 @@
 ---
 ## Investigation Report Documentation
 I did a Investigation Report for that specific case as part of my learning journey, you can find it on my github in PDF format
+
 <img width="1760" height="990" alt="Untitled design" src="https://github.com/user-attachments/assets/d4f6cbba-81eb-4775-bcb4-a60718bbcae2" />
 
 ## ⚠️ Before Reading Please Read
