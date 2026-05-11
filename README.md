@@ -8,7 +8,7 @@
 ## Investigation Report Available
 <img width="1760" height="990" alt="Untitled design" src="https://github.com/user-attachments/assets/d4f6cbba-81eb-4775-bcb4-a60718bbcae2" />
 
-## Note
+## ⚠️ Before Reading Please Read
 For Q&A styled investigation, please feel free to [check my Medium Writeup](https://medium.com/@0xm4r7yr) where I solve the same investigation - Q&A Style
 
 ## Overview
