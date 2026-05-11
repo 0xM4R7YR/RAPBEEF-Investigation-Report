@@ -37,6 +37,8 @@ A threat actor, assessed with moderate confidence to be a contractor hired by Do
 ---
 
 ## Attack Chain Summary
+### Detailed OWL Records Attack Chain Graph Analysis
+<img width="1952" height="1426" alt="image" src="https://github.com/user-attachments/assets/3d56cc90-894c-4e1e-ba53-c8dc78778db1" />
 
 ### Phase 1 — Reconnaissance and Account Takeover
 
