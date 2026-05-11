@@ -5,6 +5,8 @@
 > Analyst: Muhammad Essam · Handle: [0xM4R7YR](https://github.com/0xM4R7YR) · Severity: `HIGH` · Status: `CONTAINED`
 
 ---
+## Investigation Report Available
+<img width="1760" height="990" alt="Untitled design" src="https://github.com/user-attachments/assets/d4f6cbba-81eb-4775-bcb4-a60718bbcae2" />
 
 ## Overview
 
