@@ -168,6 +168,8 @@ InboundNetworkEvents
 
 This investigation was completed on the [KC7 cybersecurity training platform](https://kc7cyber.com/) — a free, browser-based SOC simulation environment built by former Microsoft DART analysts. The scenario uses real-world log sources (KQL queries against `InboundNetworkEvents`, `OutboundNetworkEvents`, `Email`, `PassiveDns`, `AuthenticationEvents`, `Employees`) and mirrors production incident investigation methodology.
 
+If you have any comments or suggestions please feel free to contact me
+
 Published as part of Muhammad Essam's public cybersecurity portfolio.
 
 ---
