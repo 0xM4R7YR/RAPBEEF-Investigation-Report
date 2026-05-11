@@ -5,7 +5,8 @@
 > Analyst: Muhammad Essam · Handle: [0xM4R7YR](https://github.com/0xM4R7YR) · Severity: `HIGH` · Status: `CONTAINED`
 
 ---
-## Investigation Report Available
+## Cultivated Investigation Report Documentation
+I did a Cultivated Investigation Report for that specific case as part of my learning journey, you can find it on my github in PDF format
 <img width="1760" height="990" alt="Untitled design" src="https://github.com/user-attachments/assets/d4f6cbba-81eb-4775-bcb4-a60718bbcae2" />
 
 ## ⚠️ Before Reading Please Read
